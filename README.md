@@ -1,13 +1,13 @@
-# IMPULSE // Block Current
+# BLOCK CURRENT
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Status](https://img.shields.io/badge/status-active-success.svg) ![Offline](https://img.shields.io/badge/offline-first-orange)
 
-**IMPULSE** is a decentralized, offline-first hyper-local radar for community resource sharing. It operates on a mesh network principle, allowing users to "drop" pulses (safety alerts, resources, joy events) that are broadcast via BLE and synchronized opportunistically to global relays.
+**BLOCK CURRENT** is a decentralized, offline-first hyper-local radar for community resource sharing. It operates on a mesh network principle, allowing users to "drop" pulses (safety alerts, resources, joy events) that are broadcast via BLE and synchronized opportunistically to global relays.
 
 ![Demo](demo.png)
 
 ## The Philosophy
-In a post-control world, connectivity should not be a privilege. IMPULSE allows communities to coordinate, share food/water locations, and signal safety without relying on central internet providers or corporate datastores.
+In a post-control world, connectivity should not be a privilege. BLOCK CURRENT allows communities to coordinate, share food/water locations, and signal safety without relying on central internet providers or corporate datastores.
 
 **"Be the Mule."** Your device bridges the air-gap for others.
 
